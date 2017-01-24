@@ -74,6 +74,9 @@ Note that any toolboxes placed in a folder called `vendor` within the repository
 - `QA_diary_output.txt` - record of the MATLAB command window while running the memolab_MRI_qa pipeline
 - `QA_report_[subject].pdf` - optional report that concatenates most of the plots, putting them into a single PDF (in batch script, set `pdfReport=1`)
 
+## Dependencies
+- `hline` and `vline` - https://www.mathworks.com/matlabcentral/fileexchange/1039-hline-and-vline
+
 # More information:
 ## References
 - ArtRepair: https://www.nitrc.org/projects/art_repair/
